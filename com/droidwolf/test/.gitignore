@@ -1,0 +1,13 @@
+/BacktrackLexer.class
+/Lexer.class
+/LookaheadLexer.class
+/LookaheadParser.class
+/Parser.class
+/Test.class
+/TestLLkParser.class
+/TestPackratParser.class
+/TestPackratParserEx$AssignMatchAlternative.class
+/TestPackratParserEx$ListEOFMatchAlternative.class
+/TestPackratParserEx$ListMatchAndRecord.class
+/TestPackratParserEx.class
+/Token.class
